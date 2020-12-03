@@ -1,14 +1,14 @@
 //////////////////// Lelalntus Related
 Private Balances
-匿名余额
+匿名的余额
 Transparent Balances
-公开余额
+公开的余额
 Anonymizable
 可匿名化的
 Anonymize all
-全部匿名
+全部匿名化
 Anonymize Funds
-资金匿名
+资金匿名化
 Do you want to anonymize all transparent funds?
 你想把所有的公开资金匿名化吗？
 Anonymize
@@ -22,15 +22,15 @@ Enable auto-anonymize features
 Enable lelantus manual-anonymize page
 启用 Lelantus 手动匿名化界面
 Use Transparent Balance
-使用公开余额
+使用公开的余额
 Transparent Balance
-公开余额
+公开的余额
 Use Private Balance
-使用匿名余额
+使用匿名的余额
 Private Balance
-匿名余额
+匿名的余额
 Global Lelantus Pool:
-总括 Lelantus 池：
+整个 Lelantus 池：
 Total:
 总数：
 Latest group:
@@ -44,13 +44,13 @@ Spendable:
 Unconfirmed:
 未确认：
 Amount to anonymize:
-匿名的金额：
+要匿名化的金额：
 Available amount to anonymize:
-可用的匿名的金额：
+可匿名化的金额：
 Anonymized
 匿名的
 Are you sure you want to anonymize * FIRO?
-你确定你要匿名*FIRO？
+你确定你要匿名化 * FIRO？
 Spend to yourself
 支出给自己
 Spend to
@@ -61,9 +61,9 @@ Spend to
 Warning
 警告
 Are you sure you wish to proceed without confirming whether you have written down your seed words correctly?
-你确定要在不确认自己的seed words是否写正确的情况下继续吗？
+你确定要在不确认自己的种子短语是否正确写下的情况下继续吗？
 Wrong number of words. Please try again.
-字数错误。请再试一次。
+短语错误。请再试一次。
 Mnemonic can't be empty.
 助记词不能是空的。
 Something went wrong. Please try again.
@@ -131,11 +131,11 @@ Notification
 Your wallet has been created successfully. Using the following sequence of words, you will be able to recover your wallet at any time.
 你的钱包已经创建成功。使用下面的顺序词，你就可以随时找回你的钱包。
 Mnemonic words:
-记忆词：
+助记词：
 Please write down these words and keep them in a secure location such as a safe.
 请写下这些单词，并将其保存在安全的地方，如保险箱。
 WARNING: Anyone with access to these words can recover your wallet and will have control over your funds!
 警告：任何有机会接触到这些词的人都可以找回你的钱包，并将控制你的资金！
 Please re-enter the mnemonic words to ensure that you have written it down correctly.
-请重新输入记忆词，以确保你正确地写下它。
+请重新输入助记词，以确保你正确地写下了它。
 
