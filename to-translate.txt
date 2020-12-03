@@ -16,9 +16,9 @@ Anonymize
 Unlock your wallet to anonymize all transparent funds.
 解锁钱包，将所有公开资金匿名化
 Lock your wallet immediately after anonymizing
-匿名化后立即锁定你的钱包
+匿名化后立即锁上你的钱包
 Enable auto-anonymize features
-启用自动匿名功能
+启用自动匿名化功能
 Enable lelantus manual-anonymize page
 启用 Lelantus 手动匿名化界面
 Use Transparent Balance
