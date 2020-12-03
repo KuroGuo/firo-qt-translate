@@ -1,58 +1,58 @@
 //////////////////// Lelalntus Related
 Private Balances
-私人账户余额
+匿名余额
 Transparent Balances
-透明账户余额
+公开余额
 Anonymizable
 可匿名化的
 Anonymize all
 全部匿名
 Anonymize Funds
-匿名基金
+资金匿名
 Do you want to anonymize all transparent funds?
-你想把所有的透明基金匿名化吗？
+你想把所有的公开资金匿名化吗？
 Anonymize
 匿名化
 Unlock your wallet to anonymize all transparent funds.
-解锁钱包，将所有透明资金匿名化
+解锁钱包，将所有公开资金匿名化
 Lock your wallet immediately after anonymizing
-匿名化后立即锁定您的钱包
+匿名化后立即锁定你的钱包
 Enable auto-anonymize features
 启用自动匿名功能
 Enable lelantus manual-anonymize page
-启用 lelantus 手动-匿名化页面
+启用 Lelantus 手动匿名化界面
 Use Transparent Balance
-使用透明余额
+使用公开余额
 Transparent Balance
-透明余额
+公开余额
 Use Private Balance
-使用私人余额
+使用匿名余额
 Private Balance
-私人余额
+匿名余额
 Global Lelantus Pool:
-全球Lelantus池：
+总括 Lelantus 池：
 Total:
 总数：
 Latest group:
 最新一组：
 Unspent:
-未耗尽的：
+未花费的：
 Your Anonymized Coins:
 你的匿名币：
 Spendable:
-可消费：
+可花费：
 Unconfirmed:
 未确认：
 Amount to anonymize:
-匿名的数量：
+匿名的金额：
 Available amount to anonymize:
-可用的匿名的数量：
+可用的匿名的金额：
 Anonymized
 匿名的
 Are you sure you want to anonymize * FIRO?
 你确定你要匿名*FIRO？
 Spend to yourself
-自己支出
+支出给自己
 Spend to
 支出
 
@@ -65,7 +65,7 @@ Are you sure you wish to proceed without confirming whether you have written dow
 Wrong number of words. Please try again.
 字数错误。请再试一次。
 Mnemonic can't be empty.
-记忆寸换器不能是空的。
+助记词不能是空的。
 Something went wrong. Please try again.
 出现问题。请再试一次。
 Passphrases don't match.
@@ -75,37 +75,37 @@ Passphrase can't be empty.
 Can't get data directory
 无法获得数据目录
 Your entered words do not match, please press back to re-check your mnemonic.
-您输入的词不匹配，请按回车键重新检查您的记忆寸换器。
+你输入的词不匹配，请按回车键重新检查你的助记词。
 
 
 "Let's create your Firo wallet!
-"让我们一起创建您的Firo钱包吧!
+"让我们一起创建你的Firo钱包吧!
 
 Please save these words on paper (order is important). These words serve as your seed and will allow you to recover your wallet in case of a computer failure.
-请将这些字保存在纸上（顺序很重要）。这些字将作为您的种子，以便于允许您在计算机故障的情况下恢复您的钱包。
+请将这些字保存在纸上（顺序很重要）。这些字将作为你的种子，以便于允许你在计算机故障的情况下恢复你的钱包。
 
 By default we create a 24 word seed but you may choose a 12 word seed should you require it for compatibility reasons.
-默认情况下，我们会创建一个24个字的种子，但如果您出于兼容性的原因需要，您也可以选择一个12个字的种子。
+默认情况下，我们会创建一个24个字的种子，但如果你出于兼容性的原因需要，你也可以选择一个12个字的种子。
 
 You can also choose to further encrypt your seed with a passphrase for added security.
-您也可以选择用密码口令进一步加密您的种子，以增加安全性。
+你也可以选择用密码口令进一步加密你的种子，以增加安全性。
 
 Warning:
 警告：
 * Never disclose your seed
-* 切勿透露您的种子
+* 切勿透露你的种子
 * Never type it on a website
 * 不要在网站上打出来
 * Do not store it electronically.
 * 请不要以电子方式存储
 * If you encrypt your seed with an additional passphrase, please also record this.
-* 如果您用额外的口令加密种子，也请记录下来。
+* 如果你用额外的口令加密种子，也请记录下来。
 
 If you have an existing seed that you wish to restore, please select "Recover existing wallet" and enter your passphrase (if you have set one for your seed).
-如果您有一个想要恢复的现有种子，请选择 "恢复现有钱包"，然后输入您的密码（如果您已经为种子设置了密码）。
+如果你有一个想要恢复的现有种子，请选择 "恢复现有钱包"，然后输入你的密码（如果你已经为种子设置了密码）。
 
 Advanced: If you don't wish to generate a wallet with a seed phrase backup (not recommended), you can set usemnemonic=0 in firo.conf."
-高级设置：如果您不希望生成一个带有种子短语备份的钱包（不推荐），您可以在firo.conf中设置usemnemonic=0。"
+高级设置：如果你不希望生成一个带有种子短语备份的钱包（不推荐），你可以在firo.conf中设置usemnemonic=0。"
 
 
 Create or Recover Wallet
@@ -129,13 +129,13 @@ Input mnemonic passphrase again:
 Notification
 注意
 Your wallet has been created successfully. Using the following sequence of words, you will be able to recover your wallet at any time.
-您的钱包已经创建成功。使用下面的顺序词，您就可以随时找回您的钱包。
+你的钱包已经创建成功。使用下面的顺序词，你就可以随时找回你的钱包。
 Mnemonic words:
 记忆词：
 Please write down these words and keep them in a secure location such as a safe.
 请写下这些单词，并将其保存在安全的地方，如保险箱。
 WARNING: Anyone with access to these words can recover your wallet and will have control over your funds!
-警告：任何有机会接触到这些词的人都可以找回您的钱包，并将控制您的资金！
+警告：任何有机会接触到这些词的人都可以找回你的钱包，并将控制你的资金！
 Please re-enter the mnemonic words to ensure that you have written it down correctly.
-请重新输入记忆词，以确保您正确地写下它。
+请重新输入记忆词，以确保你正确地写下它。
 
