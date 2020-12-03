@@ -63,7 +63,7 @@ Warning
 Are you sure you wish to proceed without confirming whether you have written down your seed words correctly?
 你确定要在不确认自己的种子短语是否正确写下的情况下继续吗？
 Wrong number of words. Please try again.
-短语错误。请再试一次。
+字数错误。请再试一次。
 Mnemonic can't be empty.
 助记词不能是空的。
 Something went wrong. Please try again.
